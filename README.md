@@ -9,3 +9,8 @@
 ✅ User quản lý note: thêm/sửa/xóa/xem bảng/clear/đổi mk/đăng xuất
 
 ✅ Admin quản lý note: xem tất cả / tìm theo username / xóa / refresh / đổi mk / đăng xuất
+
+
+HIẾU ĐĂNG NHẬP ĐĂNG KÝ QUÊN MK
+DUY ANH MAINFAME
+DUY QL ADMIN
